@@ -105,7 +105,7 @@ text
 
 
 
-# ⚙️ Gear Emoji
+# ⚙ Gear Emoji
 
 Note that this headings link is generated with `href="#️-gear-emoji"`. Why is there a number sign emoji in the link fragment?
 
